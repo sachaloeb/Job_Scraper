@@ -1,9 +1,6 @@
-# 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-14 08:10 UTC*
+# 🔥 LinkedIn — Sacha's CS & AI Roles
+*Last updated: 2026-10-14 12:16 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Hazardous Materials and Waste Manager](https://www.linkedin.com/jobs/view/4479277060/) — University of California, Santa Cruz
-- 📍 **Location:** Santa Cruz County, CA
-- 💰 **Salary:** $100,100 - $107,674/annually
-- 🕒 **Posted:** 2026-10-14
+No new roles since the last run.
