@@ -1,0 +1,224 @@
+{
+  "profile": {
+    "title": "Sacha's CS & AI Job Tracker",
+    "subtitle": "Delft · Rotterdam · The Hague · Amsterdam",
+    "emoji": "💻"
+  },
+  "keywords": {
+    "include": [
+      "software engineer",
+      "software developer",
+      "software ontwikkelaar",
+      "backend engineer",
+      "backend developer",
+      "back-end developer",
+      "back-end engineer",
+      "full stack developer",
+      "full-stack developer",
+      "fullstack developer",
+      "full stack engineer",
+      "full-stack engineer",
+      "python developer",
+      "python engineer",
+      "python ontwikkelaar",
+      "java developer",
+      "react developer",
+      "graduate software",
+      "junior developer",
+      "data scientist",
+      "data science",
+      "data analyst",
+      "data analist",
+      "data engineer",
+      "analytics engineer",
+      "machine learning",
+      "ml engineer",
+      "ai engineer",
+      "ai developer",
+      "ai ontwikkelaar",
+      "artificial intelligence",
+      "deep learning",
+      "computer vision engineer",
+      "applied scientist",
+      "research engineer",
+      "research software engineer",
+      "quantitative analyst",
+      "quantitative developer",
+      "quantitative researcher",
+      "quant developer",
+      "quant researcher",
+      "quant analyst",
+      "algorithmic trading",
+      "trading systems",
+      "simulation engineer"
+    ],
+    "exclude": [
+      "co-op",
+      "trainee",
+      "postdoc",
+      "phd",
+      "senior",
+      "sr.",
+      "lead",
+      "principal",
+      "staff",
+      "head of",
+      "director",
+      "vice president",
+      "engineering manager",
+      "architect"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "software engineer",
+      "junior software engineer",
+      "graduate software engineer",
+      "python developer",
+      "java developer",
+      "backend developer",
+      "full stack developer",
+      "data scientist",
+      "junior data scientist",
+      "data analyst",
+      "data engineer",
+      "machine learning engineer",
+      "AI engineer",
+      "research software engineer",
+      "quantitative developer",
+      "quantitative analyst",
+      "quantitative researcher",
+      "software ontwikkelaar"
+    ],
+    "indeed": [
+      "software engineer",
+      "python developer",
+      "data scientist",
+      "data analyst",
+      "data engineer",
+      "machine learning engineer",
+      "AI engineer",
+      "quantitative developer",
+      "software ontwikkelaar"
+    ],
+    "glassdoor": [
+      "software engineer",
+      "python developer",
+      "data scientist",
+      "data analyst",
+      "data engineer",
+      "machine learning engineer",
+      "AI engineer",
+      "quantitative developer"
+    ],
+    "ziprecruiter": [
+      "software engineer",
+      "python developer",
+      "data scientist",
+      "data analyst",
+      "machine learning engineer",
+      "AI engineer",
+      "quantitative developer"
+    ],
+    "google_jobs": [
+      "software engineer",
+      "python developer",
+      "data scientist",
+      "data analyst",
+      "data engineer",
+      "machine learning engineer",
+      "AI engineer",
+      "quantitative developer",
+      "software ontwikkelaar"
+    ],
+    "hiring_cafe": [
+      "software engineer",
+      "python developer",
+      "data scientist",
+      "data analyst",
+      "machine learning engineer",
+      "AI engineer",
+      "quantitative developer"
+    ]
+  },
+  "locations": {
+    "linkedin": [
+      { "name": "Delft", "location": "Delft, South Holland, Netherlands", "geoId": "" },
+      { "name": "Rotterdam", "location": "Rotterdam, South Holland, Netherlands", "geoId": "" },
+      { "name": "The Hague", "location": "The Hague, South Holland, Netherlands", "geoId": "" },
+      { "name": "Amsterdam", "location": "Amsterdam, North Holland, Netherlands", "geoId": "" }
+    ],
+    "indeed": [
+      { "location": "Delft", "country": "Netherlands" },
+      { "location": "Rotterdam", "country": "Netherlands" },
+      { "location": "Den Haag", "country": "Netherlands" },
+      { "location": "Amsterdam", "country": "Netherlands" }
+    ],
+    "glassdoor": [
+      { "location": "Delft", "country": "Netherlands" },
+      { "location": "Rotterdam", "country": "Netherlands" },
+      { "location": "The Hague", "country": "Netherlands" },
+      { "location": "Amsterdam", "country": "Netherlands" }
+    ],
+    "ziprecruiter": [
+      { "location": "Delft", "country": "Netherlands" },
+      { "location": "Rotterdam", "country": "Netherlands" },
+      { "location": "The Hague", "country": "Netherlands" },
+      { "location": "Amsterdam", "country": "Netherlands" }
+    ],
+    "google_jobs": [
+      { "location": "Delft, Netherlands", "country": "Netherlands" },
+      { "location": "Rotterdam, Netherlands", "country": "Netherlands" },
+      { "location": "The Hague, Netherlands", "country": "Netherlands" },
+      { "location": "Amsterdam, Netherlands", "country": "Netherlands" }
+    ],
+    "hiring_cafe": [
+      { "location": "Netherlands" }
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "priority": [
+      "Optiver",
+      "IMC Trading",
+      "Flow Traders",
+      "Da Vinci",
+      "Booking.com",
+      "Adyen",
+      "Picnic",
+      "Coolblue",
+      "TNO",
+      "Deltares",
+      "Port of Rotterdam"
+    ],
+    "exclude": []
+  },
+  "priority_topics": {
+    "terms": [
+      ["Machine Learning / AI", "\\b(machine learning|ml|ai|artificial intelligence|deep learning|recommend\\w*|llm|nlp|pytorch|tensorflow)\\b"],
+      ["Quant / Trading", "\\b(quant\\w*|trading|trader|algorithmic|market making|execution|fintech)\\b"],
+      ["Time Series / Streaming", "\\b(time[- ]series|signal processing|streaming|real[- ]time|forecasting)\\b"],
+      ["Maritime / Port Tech", "\\b(maritime|port|shipping|logistics|offshore)\\b"]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      ["Quant / Trading", "quant|trading|trader|algorithmic"],
+      ["ML / AI", "machine learning|\\bml\\b|\\bai\\b|artificial intelligence|deep learning|computer vision|nlp|applied scientist"],
+      ["Research Engineering", "research (software )?engineer|research scientist|r&d"],
+      ["Data Science", "data scien|decision scien"],
+      ["Data Engineering", "data engineer|analytics engineer|etl"],
+      ["Data Analysis", "data anal|bi developer|business intelligence"],
+      ["Software Engineering", "software|developer|ontwikkelaar|engineer|programmer|full[- ]?stack|back[- ]?end|front[- ]?end"]
+    ]
+  },
+  "notify": { "min_fit": 75 }
+}
